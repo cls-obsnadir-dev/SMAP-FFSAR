@@ -1,0 +1,8 @@
+05/28/2021 10:22:36 AM INFO Starting processing product S3A_SR_1_SRA_A__20180628T192512_20180628T201541_20180723T214218_3029_033_013______LN3_O_NT_003
+05/28/2021 10:22:36 AM INFO Using bbox : 35.33 < lat < 35.34 & 0.00 < lon < 360.00
+05/28/2021 10:22:36 AM INFO Using surface type : 0,1,2,3
+05/28/2021 10:22:36 AM INFO Using CAL2 file : /work/ALT/sentinel6/samraoui/smap_delivery_review_bp/auxi/S3A_CAL2_Ku_10days.txt
+05/28/2021 10:22:37 AM INFO 20 bursts satisfy selection.
+05/28/2021 10:22:37 AM INFO Creating output file /work/ALT/sentinel6/samraoui/smap_delivery_review_bp/output/transponder/TDS_FFSAR_BP/l1b/S3A_SR_1_SRA_A__20180628T192512_20180628T201541_20180723T214218_3029_033_013______LN3_O_NT_003_l1b.nc
+05/28/2021 10:22:37 AM INFO Using the FF-SAR back-projection processing
+05/28/2021 10:40:00 AM INFO L1b processing done. Closing L1a and L1b files.

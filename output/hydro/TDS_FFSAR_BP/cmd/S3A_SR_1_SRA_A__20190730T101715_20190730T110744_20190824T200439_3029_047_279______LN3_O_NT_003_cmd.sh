@@ -1,0 +1,9 @@
+#!/bin/bash
+
+python /work/ALT/sentinel6/samraoui/smap_delivery_review_bp/main_l1b.py /work/ALT/sentinel6/samraoui/smap_delivery_review_bp/input/hydro/S3A_SR_1_SRA_A__20190730T101715_20190730T110744_20190824T200439_3029_047_279______LN3_O_NT_003.SEN3/measurement_l1a.nc -c /work/ALT/sentinel6/samraoui/smap_delivery_review_bp/config/hydro/config_hydro_ffsar_bp.cfg -o /work/ALT/sentinel6/samraoui/smap_delivery_review_bp/output/hydro/TDS_FFSAR_BP/l1b/S3A_SR_1_SRA_A__20190730T101715_20190730T110744_20190824T200439_3029_047_279______LN3_O_NT_003_l1b.nc -l /work/ALT/sentinel6/samraoui/smap_delivery_review_bp/output/hydro/TDS_FFSAR_BP/log/S3A_SR_1_SRA_A__20190730T101715_20190730T110744_20190824T200439_3029_047_279______LN3_O_NT_003_l1b.log
+
+if [ -e /work/ALT/sentinel6/samraoui/smap_delivery_review_bp/output/hydro/TDS_FFSAR_BP/l1b/S3A_SR_1_SRA_A__20190730T101715_20190730T110744_20190824T200439_3029_047_279______LN3_O_NT_003_l1b.nc ]
+then
+python /work/ALT/sentinel6/samraoui/smap_delivery_review_bp/main_l2.py /work/ALT/sentinel6/samraoui/smap_delivery_review_bp/output/hydro/TDS_FFSAR_BP/l1b/S3A_SR_1_SRA_A__20190730T101715_20190730T110744_20190824T200439_3029_047_279______LN3_O_NT_003_l1b.nc -c /work/ALT/sentinel6/samraoui/smap_delivery_review_bp/config/hydro/config_hydro_ffsar_bp.cfg -o /work/ALT/sentinel6/samraoui/smap_delivery_review_bp/output/hydro/TDS_FFSAR_BP/l2/S3A_SR_1_SRA_A__20190730T101715_20190730T110744_20190824T200439_3029_047_279______LN3_O_NT_003_l2.nc -l /work/ALT/sentinel6/samraoui/smap_delivery_review_bp/output/hydro/TDS_FFSAR_BP/log/S3A_SR_1_SRA_A__20190730T101715_20190730T110744_20190824T200439_3029_047_279______LN3_O_NT_003_l2.log
+
+fi

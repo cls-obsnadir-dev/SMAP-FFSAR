@@ -140,4 +140,13 @@ Test data set (TDS) output, launched by CLS with SMAP code, is provided in the s
 
 - Pierre Rieu - CLS
 - Samira Amraoui - CLS
-- Marco Restano - SERCO c/o ESA-ESRIN
+- Marco Restano - SERCO c/o ESA-ESRIN (review of the code)
+
+## Contact
+
+If you any further information, please do not hesitate to contact CLS team (Samira Amraoui "samraoui@groupcls.com" or Thomas Moreau "tmoreau@groupcls.com").
+
+## Acknowledgement
+
+Please consider including our members as co-authors if they made suitable contributions to your work.
+Please mention the SMAP FFSAR CLS/ESA/CNES project if you are using this tool.

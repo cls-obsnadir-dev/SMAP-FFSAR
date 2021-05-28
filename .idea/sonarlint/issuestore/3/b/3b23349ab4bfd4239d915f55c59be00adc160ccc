@@ -1,0 +1,15 @@
+
+epython:S1192‰"GDefine a constant instead of duplicating this literal " -c {}" 5 times.(’“ğ†şÿÿÿÿ
+ipython:S1192ˆ"KDefine a constant instead of duplicating this literal "/{}_l1a.nc" 4 times.(ÊÌÜüşÿÿÿÿ
+gpython:S1192Š"NDefine a constant instead of duplicating this literal " -o ${TMPDIR}" 5 times.(Úğ½Ó
+epython:S1192‹"LDefine a constant instead of duplicating this literal "/{}_l1b.log" 3 times.(Ó€¤¨
+kpython:S1192»"MDefine a constant instead of duplicating this literal "rm ${TMPDIR}" 5 times.(™Óâôÿÿÿÿÿ
+python:S1192Ğ"cDefine a constant instead of duplicating this literal "python {} {} -c {} -o {} -l {}\n\n" 4 times.(¦›ÈÔùÿÿÿÿ
+ipython:S1192ˆ"KDefine a constant instead of duplicating this literal " ${TMPDIR}" 5 times.(ÊÌÜüşÿÿÿÿ
+dpython:S1192Š"KDefine a constant instead of duplicating this literal "/{}_l1b.nc" 7 times.(Úğ½Ó
+gpython:S1192‹"NDefine a constant instead of duplicating this literal " -l ${TMPDIR}" 5 times.(Ó€¤¨
+epython:S1192¬"GDefine a constant instead of duplicating this literal "then\n" 3 times.(±¬£šûÿÿÿÿ
+kpython:S1192©"MDefine a constant instead of duplicating this literal "cp ${TMPDIR}" 4 times.(ë†´‰şÿÿÿÿ
+6python:S125N"Remove this commented out code.(¦™©‚
+Tpython:S5754d"<Specify an exception class to catch or reraise the exception(ˆÊÉ·
+Ipython:S1862˜"+This branch duplicates the one on line 143.(Ã†¦—øÿÿÿÿ

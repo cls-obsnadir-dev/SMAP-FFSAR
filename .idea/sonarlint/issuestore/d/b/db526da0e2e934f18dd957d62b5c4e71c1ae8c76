@@ -1,0 +1,5 @@
+
+ppython:S18455"XRename field "t" to prevent any misunderstanding/clash with field "T" defined on line 23(ÈýÞ×
+fpython:S116"JRename this field "Fs" to match the regular expression ^[_a-z][_a-z0-9]*$.(µæ°Žûÿÿÿÿ
+lpython:S116"PRename this field "theta3dB" to match the regular expression ^[_a-z][_a-z0-9]*$.(‚ãàžþÿÿÿÿ
+gpython:S116"KRename this field "GdB" to match the regular expression ^[_a-z][_a-z0-9]*$.(þÙ×ñûÿÿÿÿ

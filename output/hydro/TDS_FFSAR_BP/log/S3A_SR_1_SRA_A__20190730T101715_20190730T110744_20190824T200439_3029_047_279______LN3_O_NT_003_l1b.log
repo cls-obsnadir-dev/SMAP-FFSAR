@@ -1,0 +1,10 @@
+05/28/2021 09:50:57 AM INFO Starting processing product S3A_SR_1_SRA_A__20190730T101715_20190730T110744_20190824T200439_3029_047_279______LN3_O_NT_003
+05/28/2021 09:50:57 AM INFO Using bbox : 44.00 < lat < 44.11 & 0.00 < lon < 360.00
+05/28/2021 09:50:57 AM INFO Using surface type : 0,1,2,3
+05/28/2021 09:50:57 AM INFO Using shapefile /work/ALT/sentinel6/samraoui/smap_delivery_review_bp/shp/shapefile_smap.shp
+05/28/2021 09:50:57 AM INFO Using CAL2 file : /work/ALT/sentinel6/samraoui/smap_delivery_review_bp/auxi/S3A_CAL2_Ku_10days.txt
+05/28/2021 09:50:57 AM INFO The pass has 29 associated shape(s) in the shapefile
+05/28/2021 09:50:59 AM INFO 35 bursts satisfy selection.
+05/28/2021 09:50:59 AM INFO Creating output file /work/ALT/sentinel6/samraoui/smap_delivery_review_bp/output/hydro/TDS_FFSAR_BP/l1b/S3A_SR_1_SRA_A__20190730T101715_20190730T110744_20190824T200439_3029_047_279______LN3_O_NT_003_l1b.nc
+05/28/2021 09:50:59 AM INFO Using the FF-SAR back-projection processing
+05/28/2021 10:22:10 AM INFO L1b processing done. Closing L1a and L1b files.

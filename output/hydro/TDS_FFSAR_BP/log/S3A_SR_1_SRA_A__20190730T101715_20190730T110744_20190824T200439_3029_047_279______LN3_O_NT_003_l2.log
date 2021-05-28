@@ -1,0 +1,6 @@
+05/28/2021 10:22:11 AM INFO Starting processing product S3A_SR_1_SRA_A__20190730T101715_20190730T110744_20190824T200439_3029_047_279______LN3_O_NT_003
+05/28/2021 10:22:11 AM INFO Creating output file /work/ALT/sentinel6/samraoui/smap_delivery_review_bp/output/hydro/TDS_FFSAR_BP/l2/S3A_SR_1_SRA_A__20190730T101715_20190730T110744_20190824T200439_3029_047_279______LN3_O_NT_003_l2.nc
+05/28/2021 10:22:11 AM INFO Applying the OCOG SAR retracker
+05/28/2021 10:22:11 AM INFO Applying the PTR retracker
+05/28/2021 10:22:11 AM INFO Applying the MultiPTR retracker
+05/28/2021 10:22:14 AM INFO L2 processing done. Closing L1b and L2 files.
