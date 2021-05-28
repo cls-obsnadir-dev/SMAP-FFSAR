@@ -192,6 +192,7 @@ file_l2.product_name=file_l1b.product_name
 file_l2.mission_name=file_l1b.mission_name
 file_l2.software_version=file_l1b.software_version
 file_l2.producer=file_l1b.producer
+file_l2.project_website=file_l1b.project_website
 file_l2.Conventions=file_l1b.Conventions
 file_l2.reference_ellipsoid=file_l1b.reference_ellipsoid
 file_l2.semi_major_ellipsoid_axis=file_l1b.semi_major_ellipsoid_axis

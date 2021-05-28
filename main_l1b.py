@@ -362,6 +362,7 @@ file_l1b.product_name=file_l1a.product_name
 file_l1b.mission_name=file_l1a.mission_name
 file_l1b.software_version="v3.0"
 file_l1b.producer="CLS"
+file_l1b.project_website="https://github.com/cls-obsnadir-dev/SMAP-FFSAR.git"
 file_l1b.Conventions="CF-1.6"
 file_l1b.reference_ellipsoid="WGS84"
 file_l1b.semi_major_ellipsoid_axis=cst.geoid_wgs.a
